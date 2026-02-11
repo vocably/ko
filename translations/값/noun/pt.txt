@@ -1,0 +1,3 @@
+preço
+valor
+custo

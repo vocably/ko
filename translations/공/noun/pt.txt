@@ -1,0 +1,4 @@
+bola
+esfera
+resultado
+zero

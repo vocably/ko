@@ -1,0 +1,3 @@
+médico
+doutor
+clínico

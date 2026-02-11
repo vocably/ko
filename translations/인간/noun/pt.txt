@@ -1,0 +1,3 @@
+humano
+pessoa
+humanidade
