@@ -1,0 +1,1 @@
+["elastingumas","tamprumas","lankstumas"]
