@@ -1,0 +1,4 @@
+lock
+fasten
+close
+turn off

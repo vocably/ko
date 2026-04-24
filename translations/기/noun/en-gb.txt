@@ -1,0 +1,10 @@
+energy
+spirit
+atmosphere
+mood
+temperament
+disposition
+force
+power
+aura
+vibe

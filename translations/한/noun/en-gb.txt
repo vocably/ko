@@ -1,0 +1,5 @@
+limit
+bounds
+boundary
+extent
+scope

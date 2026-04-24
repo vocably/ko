@@ -1,0 +1,2 @@
+tenant farmer
+sharecropper

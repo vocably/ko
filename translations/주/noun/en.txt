@@ -1,0 +1,5 @@
+week
+state
+alcohol
+owner
+stock

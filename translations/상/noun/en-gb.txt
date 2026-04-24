@@ -1,0 +1,8 @@
+table
+desk
+reward
+prize
+superior
+boss
+senior
+likeness
