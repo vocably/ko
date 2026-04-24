@@ -1,1 +1,2 @@
-["Saameyn","Faa'iido"]
+Saameyn
+Faa'iido

@@ -1,1 +1,2 @@
-["chosatha","wokhazikika"]
+chosatha
+wokhazikika

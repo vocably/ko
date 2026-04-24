@@ -1,1 +1,2 @@
-["i vazhdueshëm","i qëndrueshëm"]
+i vazhdueshëm
+i qëndrueshëm

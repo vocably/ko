@@ -1,1 +1,2 @@
-["inklusif","komprehensif"]
+inklusif
+komprehensif

@@ -1,1 +1,2 @@
-["fetra","sokajy"]
+fetra
+sokajy

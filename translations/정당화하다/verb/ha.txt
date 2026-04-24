@@ -1,1 +1,2 @@
-["halatta","ba da hujja"]
+halatta
+ba da hujja

@@ -1,1 +1,2 @@
-["luonne","lahjakkuus"]
+luonne
+lahjakkuus

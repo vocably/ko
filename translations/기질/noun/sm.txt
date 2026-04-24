@@ -1,1 +1,2 @@
-["uiga","amio"]
+uiga
+amio

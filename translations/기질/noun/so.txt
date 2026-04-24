@@ -1,1 +1,2 @@
-["Dabeecad","Astaamaha"]
+Dabeecad
+Astaamaha

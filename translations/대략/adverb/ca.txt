@@ -1,1 +1,2 @@
-["aproximadament","al voltant"]
+aproximadament
+al voltant

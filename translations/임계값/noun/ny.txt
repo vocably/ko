@@ -1,1 +1,2 @@
-["malire","pachimake"]
+malire
+pachimake

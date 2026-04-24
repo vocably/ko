@@ -1,1 +1,2 @@
-["athari","ushawishi"]
+athari
+ushawishi

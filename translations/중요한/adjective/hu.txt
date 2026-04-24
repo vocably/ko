@@ -1,1 +1,2 @@
-["fontos","értékes"]
+fontos
+értékes

@@ -1,1 +1,2 @@
-["penting","utami"]
+penting
+utami

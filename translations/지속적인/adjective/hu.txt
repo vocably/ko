@@ -1,1 +1,2 @@
-["folyamatos","állandó"]
+folyamatos
+állandó

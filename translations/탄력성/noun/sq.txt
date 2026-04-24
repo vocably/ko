@@ -1,1 +1,3 @@
-["Elasticitet","Fleksibilitet","Përshtatshmëri"]
+Elasticitet
+Fleksibilitet
+Përshtatshmëri

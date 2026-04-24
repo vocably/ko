@@ -1,1 +1,2 @@
-["najmä","obzvlášť"]
+najmä
+obzvlášť

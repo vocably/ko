@@ -1,1 +1,2 @@
-["dowamy","yzygiderli"]
+dowamy
+yzygiderli

@@ -1,1 +1,2 @@
-["integrity","incorruptibility"]
+integrity
+incorruptibility

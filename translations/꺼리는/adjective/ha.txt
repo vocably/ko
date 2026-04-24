@@ -1,1 +1,2 @@
-["ƙin","gudu"]
+ƙin
+gudu

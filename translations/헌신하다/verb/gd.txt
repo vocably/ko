@@ -1,1 +1,2 @@
-["dèan dealas","thoir seachad"]
+dèan dealas
+thoir seachad

@@ -1,1 +1,2 @@
-["temperamentum","hajlam"]
+temperamentum
+hajlam

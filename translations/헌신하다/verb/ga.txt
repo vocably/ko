@@ -1,1 +1,2 @@
-["tiomnaigh","cainntigh"]
+tiomnaigh
+cainntigh

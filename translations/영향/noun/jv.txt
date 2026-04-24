@@ -1,1 +1,2 @@
-["pangaribawa","prabawa"]
+pangaribawa
+prabawa

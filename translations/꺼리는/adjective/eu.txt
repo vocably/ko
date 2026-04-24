@@ -1,1 +1,2 @@
-["gogogabe","eztia"]
+gogogabe
+eztia

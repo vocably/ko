@@ -1,1 +1,2 @@
-["nwee obi uto","nwee anuri"]
+nwee obi uto
+nwee anuri

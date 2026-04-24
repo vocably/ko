@@ -1,1 +1,2 @@
-["ngabdi","masrahke"]
+ngabdi
+masrahke

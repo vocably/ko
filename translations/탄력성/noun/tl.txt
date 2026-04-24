@@ -1,1 +1,3 @@
-["pagkalastiko","kakayahang umangkop","elastisidad"]
+pagkalastiko
+kakayahang umangkop
+elastisidad

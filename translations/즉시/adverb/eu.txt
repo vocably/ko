@@ -1,1 +1,2 @@
-["berehala","orduan"]
+berehala
+orduan

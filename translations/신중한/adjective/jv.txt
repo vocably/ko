@@ -1,1 +1,2 @@
-["ngati-ati","setiti"]
+ngati-ati
+setiti

@@ -1,1 +1,2 @@
-["tohu","whakaatu"]
+tohu
+whakaatu

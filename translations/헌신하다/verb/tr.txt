@@ -1,1 +1,2 @@
-["adamak","ithaf etmek"]
+adamak
+ithaf etmek

@@ -1,1 +1,2 @@
-["obetovať sa","venovať sa"]
+obetovať sa
+venovať sa

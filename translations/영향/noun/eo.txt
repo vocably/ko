@@ -1,1 +1,2 @@
-["influo","efiko"]
+influo
+efiko

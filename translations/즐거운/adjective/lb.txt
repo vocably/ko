@@ -1,1 +1,2 @@
-["frou","glécklech"]
+frou
+glécklech

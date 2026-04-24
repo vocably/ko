@@ -1,1 +1,2 @@
-["integriti","kejujuran"]
+integriti
+kejujuran

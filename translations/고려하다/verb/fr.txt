@@ -1,1 +1,2 @@
-["considérer","prendre en considération"]
+considérer
+prendre en considération

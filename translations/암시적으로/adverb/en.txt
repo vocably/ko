@@ -1,1 +1,2 @@
-["implicitly","suggestively"]
+implicitly
+suggestively

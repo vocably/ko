@@ -1,1 +1,2 @@
-["oanhâldend","trochgeand"]
+oanhâldend
+trochgeand

@@ -1,1 +1,2 @@
-["kontinyèl","pèmanan"]
+kontinyèl
+pèmanan

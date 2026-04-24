@@ -1,1 +1,2 @@
-["küszöbérték","kritikus érték"]
+küszöbérték
+kritikus érték

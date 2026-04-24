@@ -1,1 +1,2 @@
-["sakarce","yi sakaci"]
+sakarce
+yi sakaci

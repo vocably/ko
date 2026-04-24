@@ -1,1 +1,2 @@
-["yetarli","to'liq"]
+yetarli
+to'liq

@@ -1,1 +1,2 @@
-["helga sig","fórna sér"]
+helga sig
+fórna sér

@@ -1,1 +1,2 @@
-["paaukoti","atsiduoti"]
+paaukoti
+atsiduoti

@@ -1,1 +1,2 @@
-["çəkinmək","qorxmaq"]
+çəkinmək
+qorxmaq

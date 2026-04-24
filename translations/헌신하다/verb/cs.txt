@@ -1,1 +1,2 @@
-["obětovat se","věnovat se"]
+obětovat se
+věnovat se

@@ -1,1 +1,3 @@
-["tính đàn hồi","tính linh hoạt","độ co giãn"]
+tính đàn hồi
+tính linh hoạt
+độ co giãn

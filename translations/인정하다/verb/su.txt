@@ -1,1 +1,3 @@
-["ngaku","ngakuin","ngakukeun"]
+ngaku
+ngakuin
+ngakukeun

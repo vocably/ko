@@ -1,1 +1,2 @@
-["kritik hədd","eşik dəyəri"]
+kritik hədd
+eşik dəyəri

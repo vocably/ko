@@ -1,1 +1,3 @@
-["elasticitet","fleksibilitet","smidighed"]
+elasticitet
+fleksibilitet
+smidighed

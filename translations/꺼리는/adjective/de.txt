@@ -1,1 +1,2 @@
-["abgeneigt","widerwillig"]
+abgeneigt
+widerwillig

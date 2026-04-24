@@ -1,1 +1,2 @@
-["mahalaga","importante"]
+mahalaga
+importante

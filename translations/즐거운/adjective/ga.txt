@@ -1,1 +1,2 @@
-["áthasach","sonasach"]
+áthasach
+sonasach

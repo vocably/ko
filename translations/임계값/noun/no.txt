@@ -1,1 +1,2 @@
-["terskelverdi","terskel"]
+terskelverdi
+terskel

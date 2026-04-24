@@ -1,1 +1,3 @@
-["taċċetta","tirrikonoxxi","tapprova"]
+taċċetta
+tirrikonoxxi
+tapprova

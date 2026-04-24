@@ -1,1 +1,2 @@
-["óbeint","með vísan til"]
+óbeint
+með vísan til

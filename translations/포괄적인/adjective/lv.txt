@@ -1,1 +1,2 @@
-["visaptverošs","iekļaujošs"]
+visaptverošs
+iekļaujošs

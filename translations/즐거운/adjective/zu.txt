@@ -1,1 +1,2 @@
-["ukujabula","injabulo"]
+ukujabula
+injabulo

@@ -1,1 +1,2 @@
-["belangrik","waardevol"]
+belangrik
+waardevol

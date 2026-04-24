@@ -1,1 +1,3 @@
-["elastiklik","çeviklik","elastikiyyət"]
+elastiklik
+çeviklik
+elastikiyyət

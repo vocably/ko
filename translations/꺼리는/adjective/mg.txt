@@ -1,1 +1,2 @@
-["mankahala","misalasala"]
+mankahala
+misalasala

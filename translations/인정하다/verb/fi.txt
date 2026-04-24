@@ -1,1 +1,3 @@
-["tunnustaa","hyväksyä","vahvistaa"]
+tunnustaa
+hyväksyä
+vahvistaa

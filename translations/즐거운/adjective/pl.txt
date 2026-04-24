@@ -1,1 +1,2 @@
-["szczęśliwy","zadowolony"]
+szczęśliwy
+zadowolony

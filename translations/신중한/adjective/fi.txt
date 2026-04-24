@@ -1,1 +1,2 @@
-["huolellinen","tarkka"]
+huolellinen
+tarkka

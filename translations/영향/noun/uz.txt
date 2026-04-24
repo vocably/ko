@@ -1,1 +1,2 @@
-["ta'sir","samara"]
+ta'sir
+samara

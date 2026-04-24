@@ -1,1 +1,2 @@
-["rezulto","frukto"]
+rezulto
+frukto

@@ -1,1 +1,2 @@
-["dedicar-se","sacrificar-se"]
+dedicar-se
+sacrificar-se

@@ -1,1 +1,3 @@
-["pūmanawa","ngāwari","whakarerekēnga"]
+pūmanawa
+ngāwari
+whakarerekēnga

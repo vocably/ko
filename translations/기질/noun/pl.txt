@@ -1,1 +1,2 @@
-["temperament","usposobienie"]
+temperament
+usposobienie

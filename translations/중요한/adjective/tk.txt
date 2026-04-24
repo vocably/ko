@@ -1,1 +1,2 @@
-["wajyp","gymmatly"]
+wajyp
+gymmatly

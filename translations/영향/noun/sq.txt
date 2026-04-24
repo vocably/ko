@@ -1,1 +1,2 @@
-["ndikim","efekt"]
+ndikim
+efekt

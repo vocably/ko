@@ -1,1 +1,3 @@
-["elasticiteit","veerkracht","flexibiliteit"]
+elasticiteit
+veerkracht
+flexibiliteit

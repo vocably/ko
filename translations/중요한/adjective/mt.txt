@@ -1,1 +1,2 @@
-["importanti","prezzjuż"]
+importanti
+prezzjuż

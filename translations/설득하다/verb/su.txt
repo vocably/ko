@@ -1,1 +1,2 @@
-["ngabibita","ngolo-ngolo"]
+ngabibita
+ngolo-ngolo

@@ -1,1 +1,2 @@
-["papòt","valè papòt"]
+papòt
+valè papòt

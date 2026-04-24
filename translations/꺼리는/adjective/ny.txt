@@ -1,1 +1,2 @@
-["kukana","kupewa"]
+kukana
+kupewa

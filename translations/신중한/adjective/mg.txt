@@ -1,1 +1,2 @@
-["malina","tsara eritreritra"]
+malina
+tsara eritreritra

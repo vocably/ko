@@ -1,1 +1,2 @@
-["musamman","fiye da kowane"]
+musamman
+fiye da kowane

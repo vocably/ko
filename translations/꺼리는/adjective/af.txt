@@ -1,1 +1,2 @@
-["teësinnig","huiwerig"]
+teësinnig
+huiwerig

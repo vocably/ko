@@ -1,1 +1,2 @@
-["ägnade","offrade"]
+ägnade
+offrade

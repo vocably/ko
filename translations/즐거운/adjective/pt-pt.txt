@@ -1,1 +1,2 @@
-["contente","feliz"]
+contente
+feliz

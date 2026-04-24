@@ -1,1 +1,2 @@
-["kushawishi","kubembeleza"]
+kushawishi
+kubembeleza

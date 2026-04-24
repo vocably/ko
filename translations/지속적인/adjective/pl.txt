@@ -1,1 +1,2 @@
-["ciągły","stały"]
+ciągły
+stały

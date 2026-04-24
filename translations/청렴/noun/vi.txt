@@ -1,1 +1,2 @@
-["liêm khiết","thanh liêm"]
+liêm khiết
+thanh liêm

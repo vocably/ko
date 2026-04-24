@@ -1,1 +1,3 @@
-["lub zog","lub peev xwm","qhov hloov tau"]
+lub zog
+lub peev xwm
+qhov hloov tau

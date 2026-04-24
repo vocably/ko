@@ -1,1 +1,2 @@
-["iʻuga","fua"]
+iʻuga
+fua

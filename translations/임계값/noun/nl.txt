@@ -1,1 +1,2 @@
-["drempelwaarde","kritiek punt"]
+drempelwaarde
+kritiek punt

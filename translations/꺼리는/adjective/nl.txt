@@ -1,1 +1,2 @@
-["afkerig","terughoudend"]
+afkerig
+terughoudend

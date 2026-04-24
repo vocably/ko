@@ -1,1 +1,2 @@
-["sadaukarwa","bawa"]
+sadaukarwa
+bawa

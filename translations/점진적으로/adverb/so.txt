@@ -1,1 +1,2 @@
-["Si tartiib ah","Si tartiib tartiib ah"]
+Si tartiib ah
+Si tartiib tartiib ah

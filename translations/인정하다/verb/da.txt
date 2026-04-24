@@ -1,1 +1,3 @@
-["anerkende","godkende","indrømme"]
+anerkende
+godkende
+indrømme

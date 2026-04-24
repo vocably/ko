@@ -1,1 +1,2 @@
-["soglia","valore critico"]
+soglia
+valore critico

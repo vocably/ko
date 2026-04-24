@@ -1,1 +1,2 @@
-["impembelelo","ifuthe"]
+impembelelo
+ifuthe

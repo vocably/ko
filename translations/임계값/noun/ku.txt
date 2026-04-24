@@ -1,1 +1,2 @@
-["nirxa krîtîk","benda krîtîk"]
+nirxa krîtîk
+benda krîtîk

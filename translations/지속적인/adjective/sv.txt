@@ -1,1 +1,2 @@
-["kontinuerlig","ihållande"]
+kontinuerlig
+ihållande

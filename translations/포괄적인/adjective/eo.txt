@@ -1,1 +1,2 @@
-["ampleksa","inkluziva"]
+ampleksa
+inkluziva

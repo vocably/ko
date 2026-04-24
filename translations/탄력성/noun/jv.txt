@@ -1,1 +1,3 @@
-["elastisitas","daya lentur","kelenturan"]
+elastisitas
+daya lentur
+kelenturan

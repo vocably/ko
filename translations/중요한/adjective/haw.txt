@@ -1,1 +1,2 @@
-["koʻikoʻi","waiwai"]
+koʻikoʻi
+waiwai

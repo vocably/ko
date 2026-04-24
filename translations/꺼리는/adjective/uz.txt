@@ -1,1 +1,2 @@
-["xush ko'rmaydigan","jirkanadigan"]
+xush ko'rmaydigan
+jirkanadigan

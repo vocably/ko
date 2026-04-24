@@ -1,1 +1,2 @@
-["omvattend","inklusief"]
+omvattend
+inklusief

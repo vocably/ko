@@ -1,1 +1,2 @@
-["umbral","valor crítico"]
+umbral
+valor crítico

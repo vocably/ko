@@ -1,1 +1,2 @@
-["innflytelse","påvirkning"]
+innflytelse
+påvirkning

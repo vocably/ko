@@ -1,1 +1,2 @@
-["yeterince","kâfi miktarda"]
+yeterince
+kâfi miktarda

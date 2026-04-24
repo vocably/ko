@@ -1,1 +1,2 @@
-["kiwango","kizingiti"]
+kiwango
+kizingiti

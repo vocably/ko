@@ -1,1 +1,2 @@
-["ako kanya","ako uwo mwanya"]
+ako kanya
+ako uwo mwanya

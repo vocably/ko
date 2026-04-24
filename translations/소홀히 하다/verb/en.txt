@@ -1,1 +1,2 @@
-["neglect","slight"]
+neglect
+slight

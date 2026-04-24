@@ -1,1 +1,2 @@
-["tanperaman","aptitid"]
+tanperaman
+aptitid

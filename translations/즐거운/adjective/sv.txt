@@ -1,1 +1,2 @@
-["glad","nöjd"]
+glad
+nöjd

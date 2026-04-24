@@ -1,1 +1,2 @@
-["mengabaikan","memandang remeh"]
+mengabaikan
+memandang remeh

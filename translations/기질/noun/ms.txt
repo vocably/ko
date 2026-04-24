@@ -1,1 +1,2 @@
-["perangai","bakat"]
+perangai
+bakat

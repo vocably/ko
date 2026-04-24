@@ -1,1 +1,2 @@
-["prude","cautu"]
+prude
+cautu

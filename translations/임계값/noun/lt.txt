@@ -1,1 +1,2 @@
-["slenkstinė vertė","kritinė vertė"]
+slenkstinė vertė
+kritinė vertė

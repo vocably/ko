@@ -1,1 +1,2 @@
-["hasil","buah"]
+hasil
+buah

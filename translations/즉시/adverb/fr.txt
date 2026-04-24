@@ -1,1 +1,2 @@
-["immédiatement","aussitôt"]
+immédiatement
+aussitôt

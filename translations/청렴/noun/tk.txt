@@ -1,1 +1,2 @@
-["arassa ahlaklylyk","halallyk"]
+arassa ahlaklylyk
+halallyk

@@ -1,1 +1,2 @@
-["pragu","vlerë kritike"]
+pragu
+vlerë kritike

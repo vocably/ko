@@ -1,1 +1,2 @@
-["zava-dehibe","sarobidy"]
+zava-dehibe
+sarobidy

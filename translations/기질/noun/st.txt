@@ -1,1 +1,2 @@
-["boitšisinyo","semelo"]
+boitšisinyo
+semelo

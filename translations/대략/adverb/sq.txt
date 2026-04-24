@@ -1,1 +1,2 @@
-["përafërsisht","rreth"]
+përafërsisht
+rreth

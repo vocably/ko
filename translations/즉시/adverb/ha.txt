@@ -1,1 +1,2 @@
-["Nan da nan","Yanzu-yanzu"]
+Nan da nan
+Yanzu-yanzu

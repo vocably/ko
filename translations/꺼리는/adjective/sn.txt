@@ -1,1 +1,2 @@
-["kunyenyana","kuramba"]
+kunyenyana
+kuramba

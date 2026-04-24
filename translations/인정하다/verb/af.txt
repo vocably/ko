@@ -1,1 +1,3 @@
-["erken","aanvaar","goedkeur"]
+erken
+aanvaar
+goedkeur

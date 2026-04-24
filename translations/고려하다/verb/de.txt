@@ -1,1 +1,2 @@
-["berücksichtigen","erwägen"]
+berücksichtigen
+erwägen

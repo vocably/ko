@@ -1,1 +1,3 @@
-["die Elastizität","die Federkraft","die Spannkraft"]
+die Elastizität
+die Federkraft
+die Spannkraft

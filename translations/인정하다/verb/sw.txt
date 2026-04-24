@@ -1,1 +1,3 @@
-["kukubali","kutambua","kuruhusu"]
+kukubali
+kutambua
+kuruhusu

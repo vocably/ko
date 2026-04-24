@@ -1,1 +1,2 @@
-["nilai ambang","ambang"]
+nilai ambang
+ambang

@@ -1,1 +1,2 @@
-["integrala","orokorra"]
+integrala
+orokorra

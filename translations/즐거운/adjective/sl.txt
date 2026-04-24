@@ -1,1 +1,2 @@
-["vesel","srečen"]
+vesel
+srečen

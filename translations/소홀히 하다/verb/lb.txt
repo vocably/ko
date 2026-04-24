@@ -1,1 +1,2 @@
-["vernoléissegen","net eescht huelen"]
+vernoléissegen
+net eescht huelen

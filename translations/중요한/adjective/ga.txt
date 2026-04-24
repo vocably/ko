@@ -1,1 +1,2 @@
-["tábhachtach","luachmhar"]
+tábhachtach
+luachmhar

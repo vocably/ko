@@ -1,1 +1,2 @@
-["yashirincha","qisman"]
+yashirincha
+qisman

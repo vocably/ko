@@ -1,1 +1,2 @@
-["gradvis","successivt"]
+gradvis
+successivt

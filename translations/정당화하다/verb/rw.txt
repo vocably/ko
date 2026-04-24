@@ -1,1 +1,2 @@
-["kwerekana ko ari ukuri","kwerekana ko bifite ishingiro"]
+kwerekana ko ari ukuri
+kwerekana ko bifite ishingiro

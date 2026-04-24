@@ -1,1 +1,2 @@
-["rewa dan","rast kirdin"]
+rewa dan
+rast kirdin

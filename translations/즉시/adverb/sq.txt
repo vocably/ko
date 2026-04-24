@@ -1,1 +1,2 @@
-["menjëherë","tashmë"]
+menjëherë
+tashmë

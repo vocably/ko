@@ -1,1 +1,2 @@
-["pangaruh","efek"]
+pangaruh
+efek

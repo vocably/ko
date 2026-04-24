@@ -1,1 +1,2 @@
-["nepretržitý","sústavný"]
+nepretržitý
+sústavný

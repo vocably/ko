@@ -1,1 +1,2 @@
-["sürekli","devamlı"]
+sürekli
+devamlı

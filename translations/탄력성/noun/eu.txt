@@ -1,1 +1,3 @@
-["elastikotasun","malgutasun","moldakortasun"]
+elastikotasun
+malgutasun
+moldakortasun

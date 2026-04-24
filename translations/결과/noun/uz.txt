@@ -1,1 +1,2 @@
-["natija","hosil"]
+natija
+hosil

@@ -1,1 +1,2 @@
-["Gaar ahaan","Si gaar ah"]
+Gaar ahaan
+Si gaar ah

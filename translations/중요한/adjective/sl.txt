@@ -1,1 +1,2 @@
-["pomemben","dragocen"]
+pomemben
+dragocen

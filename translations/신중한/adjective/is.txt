@@ -1,1 +1,2 @@
-["varkár","íhugull"]
+varkár
+íhugull

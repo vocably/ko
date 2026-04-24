@@ -1,1 +1,2 @@
-["ka paepae","ka palena"]
+ka paepae
+ka palena

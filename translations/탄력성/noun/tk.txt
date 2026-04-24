@@ -1,1 +1,3 @@
-["çeýelik","elastiklik","ugruklyk"]
+çeýelik
+elastiklik
+ugruklyk

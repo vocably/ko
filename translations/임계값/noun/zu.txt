@@ -1,1 +1,2 @@
-["inqondo","umkhawulo"]
+inqondo
+umkhawulo

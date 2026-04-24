@@ -1,1 +1,2 @@
-["mana","hoʻoili"]
+mana
+hoʻoili

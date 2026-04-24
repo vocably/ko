@@ -1,1 +1,2 @@
-["ezi omume","iguzosi ike n'eziokwu"]
+ezi omume
+iguzosi ike n'eziokwu

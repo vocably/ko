@@ -1,1 +1,2 @@
-["tärkeä","arvokas"]
+tärkeä
+arvokas

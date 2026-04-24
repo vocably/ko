@@ -1,1 +1,2 @@
-["réticent","hésitant"]
+réticent
+hésitant

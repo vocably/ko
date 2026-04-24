@@ -1,1 +1,3 @@
-["ukuqina","ukuvumelana","ukuguquguquka"]
+ukuqina
+ukuvumelana
+ukuguquguquka

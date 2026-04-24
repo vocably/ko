@@ -1,1 +1,2 @@
-["försumma","negligera"]
+försumma
+negligera

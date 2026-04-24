@@ -1,1 +1,2 @@
-["kupuuzia","kutojali"]
+kupuuzia
+kutojali

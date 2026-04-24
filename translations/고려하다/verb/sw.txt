@@ -1,1 +1,2 @@
-["kuzingatia","kufikiria"]
+kuzingatia
+kufikiria

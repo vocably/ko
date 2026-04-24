@@ -1,1 +1,2 @@
-["täsir","effekt"]
+täsir
+effekt

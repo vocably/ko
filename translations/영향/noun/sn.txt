@@ -1,1 +1,2 @@
-["simba","pesvedzero"]
+simba
+pesvedzero

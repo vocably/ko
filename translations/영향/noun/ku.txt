@@ -1,1 +1,2 @@
-["bandor","tesîr"]
+bandor
+tesîr

@@ -1,1 +1,2 @@
-["luach-tòiseachaidh","puing-tionndaidh"]
+luach-tòiseachaidh
+puing-tionndaidh

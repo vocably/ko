@@ -1,1 +1,2 @@
-["hatás","befolyás"]
+hatás
+befolyás

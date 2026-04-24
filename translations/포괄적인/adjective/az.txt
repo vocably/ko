@@ -1,1 +1,2 @@
-["əhatəli","ümumi"]
+əhatəli
+ümumi

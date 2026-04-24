@@ -1,1 +1,2 @@
-["grava","valora"]
+grava
+valora

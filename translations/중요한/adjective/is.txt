@@ -1,1 +1,2 @@
-["mikilvægur","dýrmætur"]
+mikilvægur
+dýrmætur

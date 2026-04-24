@@ -1,1 +1,2 @@
-["temperamen","bakat"]
+temperamen
+bakat

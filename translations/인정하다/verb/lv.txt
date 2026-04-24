@@ -1,1 +1,3 @@
-["atzīt","novērtēt","apstiprināt"]
+atzīt
+novērtēt
+apstiprināt

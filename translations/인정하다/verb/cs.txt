@@ -1,1 +1,3 @@
-["uznat","připustit","schválit"]
+uznat
+připustit
+schválit

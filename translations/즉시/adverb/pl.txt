@@ -1,1 +1,2 @@
-["natychmiast","od razu"]
+natychmiast
+od razu

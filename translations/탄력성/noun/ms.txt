@@ -1,1 +1,3 @@
-["keanjalan","daya tahan","elastisitas"]
+keanjalan
+daya tahan
+elastisitas

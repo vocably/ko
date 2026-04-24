@@ -1,1 +1,2 @@
-["oýlanyşykly","ünsli"]
+oýlanyşykly
+ünsli

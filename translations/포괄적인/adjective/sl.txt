@@ -1,1 +1,2 @@
-["celovit","splošen"]
+celovit
+splošen

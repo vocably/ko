@@ -1,1 +1,2 @@
-["kaudselt","varjamatult"]
+kaudselt
+varjamatult

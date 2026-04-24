@@ -1,1 +1,2 @@
-["prag","valoare critică"]
+prag
+valoare critică

@@ -1,1 +1,2 @@
-["ithonya","umthelela"]
+ithonya
+umthelela

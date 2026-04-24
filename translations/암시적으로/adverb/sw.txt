@@ -1,1 +1,2 @@
-["kwa ishara","kwa dokezo"]
+kwa ishara
+kwa dokezo

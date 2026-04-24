@@ -1,1 +1,3 @@
-["dabacsanaan","rogrogmi","jajabnaan"]
+dabacsanaan
+rogrogmi
+jajabnaan

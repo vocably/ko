@@ -1,1 +1,2 @@
-["langsung","harita keneh"]
+langsung
+harita keneh

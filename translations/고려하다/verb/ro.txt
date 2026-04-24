@@ -1,1 +1,2 @@
-["a considera","a lua în considerare"]
+a considera
+a lua în considerare

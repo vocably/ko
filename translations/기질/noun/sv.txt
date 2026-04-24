@@ -1,1 +1,2 @@
-["temperament","anlag"]
+temperament
+anlag

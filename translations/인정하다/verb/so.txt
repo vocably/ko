@@ -1,1 +1,3 @@
-["Aqbal","Qir","Oggolow"]
+Aqbal
+Qir
+Oggolow

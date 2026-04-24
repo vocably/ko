@@ -1,1 +1,2 @@
-["sojlo","limvaloro"]
+sojlo
+limvaloro

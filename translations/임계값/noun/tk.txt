@@ -1,1 +1,2 @@
-["임계값","kritis nokat"]
+임계값
+kritis nokat

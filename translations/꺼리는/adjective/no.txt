@@ -1,1 +1,2 @@
-["motvillig","nølende"]
+motvillig
+nølende

@@ -1,1 +1,2 @@
-["konsideroj","mendohem"]
+konsideroj
+mendohem

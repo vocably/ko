@@ -1,1 +1,2 @@
-["kubalulekile","lunqabile"]
+kubalulekile
+lunqabile

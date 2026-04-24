@@ -1,1 +1,2 @@
-["xursand","mamnun"]
+xursand
+mamnun

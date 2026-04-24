@@ -1,1 +1,2 @@
-["ngabenerkeun","ngajustifikasi"]
+ngabenerkeun
+ngajustifikasi

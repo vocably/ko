@@ -1,1 +1,2 @@
-["manao tsirambina","mankaleo"]
+manao tsirambina
+mankaleo

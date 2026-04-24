@@ -1,1 +1,2 @@
-["resulta","bunga"]
+resulta
+bunga

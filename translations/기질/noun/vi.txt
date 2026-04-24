@@ -1,1 +1,2 @@
-["khí chất","tố chất"]
+khí chất
+tố chất

@@ -1,1 +1,2 @@
-["pānga","whakaawe"]
+pānga
+whakaawe

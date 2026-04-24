@@ -1,1 +1,2 @@
-["widmen","opferen"]
+widmen
+opferen

@@ -1,1 +1,2 @@
-["nggatekake","nimbang"]
+nggatekake
+nimbang

@@ -1,1 +1,2 @@
-["wjerakselje","mije"]
+wjerakselje
+mije

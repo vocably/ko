@@ -1,1 +1,2 @@
-["dürüstlük","namusluluq"]
+dürüstlük
+namusluluq

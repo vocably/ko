@@ -1,1 +1,2 @@
-["drompelwearde","krityske wearde"]
+drompelwearde
+krityske wearde

@@ -1,1 +1,2 @@
-["utjecaj","efekt"]
+utjecaj
+efekt

@@ -1,1 +1,2 @@
-["įtaka","poveikis"]
+įtaka
+poveikis

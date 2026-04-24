@@ -1,1 +1,2 @@
-["tröskelvärde","kritisk punkt"]
+tröskelvärde
+kritisk punkt

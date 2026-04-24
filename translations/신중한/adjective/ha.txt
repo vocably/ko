@@ -1,1 +1,2 @@
-["Mai hankali","Mai tunani"]
+Mai hankali
+Mai tunani

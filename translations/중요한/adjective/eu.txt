@@ -1,1 +1,2 @@
-["garrantzitsu","preziatu"]
+garrantzitsu
+preziatu

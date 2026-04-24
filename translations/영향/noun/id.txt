@@ -1,1 +1,2 @@
-["pengaruh","dampak"]
+pengaruh
+dampak

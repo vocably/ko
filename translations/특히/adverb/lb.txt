@@ -1,1 +1,2 @@
-["besonnesch","speziell"]
+besonnesch
+speziell

@@ -1,1 +1,2 @@
-["jiġġustifika","jipprova"]
+jiġġustifika
+jipprova

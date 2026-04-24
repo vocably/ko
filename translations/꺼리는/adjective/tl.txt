@@ -1,1 +1,2 @@
-["ayaw","iwas"]
+ayaw
+iwas

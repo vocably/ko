@@ -1,1 +1,2 @@
-["modvillig","tøvende"]
+modvillig
+tøvende

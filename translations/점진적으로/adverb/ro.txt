@@ -1,1 +1,2 @@
-["progresiv","treptat"]
+progresiv
+treptat

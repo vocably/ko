@@ -1,1 +1,3 @@
-["nermî","elastîkî","guhertinbarî"]
+nermî
+elastîkî
+guhertinbarî

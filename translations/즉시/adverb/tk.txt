@@ -1,1 +1,2 @@
-["derrew","şol bada"]
+derrew
+şol bada

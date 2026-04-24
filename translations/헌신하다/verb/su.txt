@@ -1,1 +1,2 @@
-["ngabdi","bakti"]
+ngabdi
+bakti

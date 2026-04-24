@@ -1,1 +1,2 @@
-["sretan","zadovoljan"]
+sretan
+zadovoljan

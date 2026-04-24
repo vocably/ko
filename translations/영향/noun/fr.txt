@@ -1,1 +1,2 @@
-["influence","impact"]
+influence
+impact

@@ -1,1 +1,2 @@
-["Kutendeka","Uchena"]
+Kutendeka
+Uchena

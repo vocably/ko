@@ -1,1 +1,2 @@
-["furaha","shangwe"]
+furaha
+shangwe

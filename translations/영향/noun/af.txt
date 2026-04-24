@@ -1,1 +1,2 @@
-["invloed","effek"]
+invloed
+effek

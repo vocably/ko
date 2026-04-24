@@ -1,1 +1,3 @@
-["mengakui","menghargai","mengesahkan"]
+mengakui
+menghargai
+mengesahkan

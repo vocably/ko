@@ -1,1 +1,2 @@
-["motvillig","tveksam"]
+motvillig
+tveksam

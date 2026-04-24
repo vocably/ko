@@ -1,1 +1,2 @@
-["Integridad","Katapatan"]
+Integridad
+Katapatan

@@ -1,1 +1,2 @@
-["neglect","be careless"]
+neglect
+be careless

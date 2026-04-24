@@ -1,1 +1,2 @@
-["kapsamlı","genel"]
+kapsamlı
+genel

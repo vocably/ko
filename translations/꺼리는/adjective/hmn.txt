@@ -1,1 +1,2 @@
-["tsis nyiam","zam"]
+tsis nyiam
+zam

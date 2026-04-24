@@ -1,1 +1,2 @@
-["Ku filan","Si ku filan"]
+Ku filan
+Si ku filan

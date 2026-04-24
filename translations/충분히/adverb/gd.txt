@@ -1,1 +1,2 @@
-["gu leòr","gu pailt"]
+gu leòr
+gu pailt

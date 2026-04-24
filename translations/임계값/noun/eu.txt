@@ -1,1 +1,2 @@
-["atalasea","muga"]
+atalasea
+muga

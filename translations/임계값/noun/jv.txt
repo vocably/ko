@@ -1,1 +1,2 @@
-["nilai ambang","titik kritis"]
+nilai ambang
+titik kritis

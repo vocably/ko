@@ -1,1 +1,2 @@
-["omfattende","inkluderende"]
+omfattende
+inkluderende

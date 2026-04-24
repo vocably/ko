@@ -1,1 +1,2 @@
-["apleisti","nepaisyti"]
+apleisti
+nepaisyti

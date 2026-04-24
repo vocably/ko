@@ -1,1 +1,2 @@
-["senang","gembira"]
+senang
+gembira

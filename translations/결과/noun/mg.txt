@@ -1,1 +1,2 @@
-["vokatra","fijinjana"]
+vokatra
+fijinjana

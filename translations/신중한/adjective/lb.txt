@@ -1,1 +1,2 @@
-["virsiichteg","iwwerluecht"]
+virsiichteg
+iwwerluecht

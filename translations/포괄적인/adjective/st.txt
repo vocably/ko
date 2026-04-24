@@ -1,1 +1,2 @@
-["kakaretso","kopanetsweng"]
+kakaretso
+kopanetsweng

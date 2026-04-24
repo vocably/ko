@@ -1,1 +1,2 @@
-["ngại","e ngại"]
+ngại
+e ngại

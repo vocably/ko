@@ -1,1 +1,2 @@
-["džiaugsmingas","laimingas"]
+džiaugsmingas
+laimingas

@@ -1,1 +1,3 @@
-["kinikilala","tinatanggap","pinatotohanan"]
+kinikilala
+tinatanggap
+pinatotohanan

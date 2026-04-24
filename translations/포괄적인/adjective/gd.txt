@@ -1,1 +1,2 @@
-["coitcheann","uile-choitcheann"]
+coitcheann
+uile-choitcheann

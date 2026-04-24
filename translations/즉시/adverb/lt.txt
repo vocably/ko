@@ -1,1 +1,2 @@
-["nedelsiant","tuoj pat"]
+nedelsiant
+tuoj pat

@@ -1,1 +1,3 @@
-["fahaiza-miova","fahaiza-manarintena","fahaiza-mandefitra"]
+fahaiza-miova
+fahaiza-manarintena
+fahaiza-mandefitra

@@ -1,1 +1,2 @@
-["khoảng","chừng"]
+khoảng
+chừng

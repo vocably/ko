@@ -1,1 +1,2 @@
-["tala um fyrir","telja á"]
+tala um fyrir
+telja á

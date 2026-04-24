@@ -1,1 +1,2 @@
-["umda","inqanaba elibucayi"]
+umda
+inqanaba elibucayi

@@ -1,1 +1,2 @@
-["moedi","leqhubu"]
+moedi
+leqhubu

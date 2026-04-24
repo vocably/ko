@@ -1,1 +1,3 @@
-["elasticitet","flexibilitet","töjbarhet"]
+elasticitet
+flexibilitet
+töjbarhet

@@ -1,1 +1,2 @@
-["kynnysarvo","kynnys"]
+kynnysarvo
+kynnys

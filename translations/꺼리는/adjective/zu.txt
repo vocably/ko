@@ -1,1 +1,2 @@
-["ukwenqaba","ukungafuni"]
+ukwenqaba
+ukungafuni

@@ -1,1 +1,2 @@
-["Afloss","Impakt"]
+Afloss
+Impakt

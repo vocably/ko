@@ -1,1 +1,2 @@
-["threshold","critical value"]
+threshold
+critical value

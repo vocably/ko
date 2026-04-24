@@ -1,1 +1,2 @@
-["netije","miwe"]
+netije
+miwe

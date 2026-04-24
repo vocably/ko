@@ -1,1 +1,2 @@
-["ukonwaba","uvuyo"]
+ukonwaba
+uvuyo

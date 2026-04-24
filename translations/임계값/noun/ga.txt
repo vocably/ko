@@ -1,1 +1,2 @@
-["tairseach","pointe criticiúil"]
+tairseach
+pointe criticiúil

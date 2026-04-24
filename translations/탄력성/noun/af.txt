@@ -1,1 +1,3 @@
-["elastisiteit","veerkragtigheid","buigsaamheid"]
+elastisiteit
+veerkragtigheid
+buigsaamheid

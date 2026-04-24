@@ -1,1 +1,2 @@
-["bliid","fleurich"]
+bliid
+fleurich

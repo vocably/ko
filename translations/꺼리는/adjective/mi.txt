@@ -1,1 +1,2 @@
-["whakaae kore","kore e pai"]
+whakaae kore
+kore e pai

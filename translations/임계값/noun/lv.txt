@@ -1,1 +1,2 @@
-["slieksnis","kritiskā vērtība"]
+slieksnis
+kritiskā vērtība

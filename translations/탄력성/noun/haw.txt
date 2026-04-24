@@ -1,1 +1,3 @@
-["Maʻalahi","Hikiwawe","Hoʻololi"]
+Maʻalahi
+Hikiwawe
+Hoʻololi

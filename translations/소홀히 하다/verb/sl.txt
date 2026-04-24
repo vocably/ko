@@ -1,1 +1,2 @@
-["zanemarjati","opuščati"]
+zanemarjati
+opuščati

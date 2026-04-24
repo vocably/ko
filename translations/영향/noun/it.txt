@@ -1,1 +1,2 @@
-["influenza","effetto"]
+influenza
+effetto

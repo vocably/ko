@@ -1,1 +1,2 @@
-["çekinmek","saklanmak"]
+çekinmek
+saklanmak

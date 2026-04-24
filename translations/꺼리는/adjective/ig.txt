@@ -1,1 +1,2 @@
-["izere","zere"]
+izere
+zere

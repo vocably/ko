@@ -1,1 +1,3 @@
-["teygjanleiki","seigla","eftirgefanleiki"]
+teygjanleiki
+seigla
+eftirgefanleiki

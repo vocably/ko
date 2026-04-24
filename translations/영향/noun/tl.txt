@@ -1,1 +1,2 @@
-["epekto","impluwensiya"]
+epekto
+impluwensiya

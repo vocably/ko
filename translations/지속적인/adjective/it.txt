@@ -1,1 +1,2 @@
-["continuo","costante"]
+continuo
+costante

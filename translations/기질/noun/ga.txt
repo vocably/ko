@@ -1,1 +1,2 @@
-["meon","gné"]
+meon
+gné

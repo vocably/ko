@@ -1,1 +1,2 @@
-["parhaus","di-dor"]
+parhaus
+di-dor

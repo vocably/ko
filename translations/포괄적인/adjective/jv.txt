@@ -1,1 +1,2 @@
-["komprehensif","jembar"]
+komprehensif
+jembar

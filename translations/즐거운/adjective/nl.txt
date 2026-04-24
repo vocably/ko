@@ -1,1 +1,2 @@
-["blij","verheugd"]
+blij
+verheugd

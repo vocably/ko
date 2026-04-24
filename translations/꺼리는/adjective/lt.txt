@@ -1,1 +1,2 @@
-["vengti","drovėtis"]
+vengti
+drovėtis

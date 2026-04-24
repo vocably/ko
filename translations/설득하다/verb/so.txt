@@ -1,1 +1,2 @@
-["Qancin","Ku qancin"]
+Qancin
+Ku qancin

@@ -1,1 +1,2 @@
-["ngưỡng","giá trị ngưỡng"]
+ngưỡng
+giá trị ngưỡng

@@ -1,1 +1,2 @@
-["ngokwanele","ngokugcwele"]
+ngokwanele
+ngokugcwele

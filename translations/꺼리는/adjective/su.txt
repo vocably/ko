@@ -1,1 +1,2 @@
-["ngewa","teu resep"]
+ngewa
+teu resep

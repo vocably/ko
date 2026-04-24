@@ -1,1 +1,3 @@
-["elastsus","paindlikkus","vetruvus"]
+elastsus
+paindlikkus
+vetruvus

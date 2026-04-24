@@ -1,1 +1,2 @@
-["neievērot","atstāt novārtā"]
+neievērot
+atstāt novārtā

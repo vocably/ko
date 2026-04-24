@@ -1,1 +1,2 @@
-["kweere","raara"]
+kweere
+raara

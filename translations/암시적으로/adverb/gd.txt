@@ -1,1 +1,2 @@
-["gu neo-dhìreach","gu soilleir"]
+gu neo-dhìreach
+gu soilleir

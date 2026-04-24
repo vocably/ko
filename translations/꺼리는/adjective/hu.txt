@@ -1,1 +1,2 @@
-["vonakodik","tartózkodik"]
+vonakodik
+tartózkodik

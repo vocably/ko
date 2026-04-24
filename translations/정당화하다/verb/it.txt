@@ -1,1 +1,2 @@
-["giustificare","legittimare"]
+giustificare
+legittimare

@@ -1,1 +1,2 @@
-["joyeux","heureux"]
+joyeux
+heureux

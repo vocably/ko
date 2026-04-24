@@ -1,1 +1,2 @@
-["justify","legitimize"]
+justify
+legitimize

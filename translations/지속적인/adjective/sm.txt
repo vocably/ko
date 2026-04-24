@@ -1,1 +1,2 @@
-["faifai pea","tumau"]
+faifai pea
+tumau

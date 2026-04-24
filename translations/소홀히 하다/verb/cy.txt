@@ -1,1 +1,2 @@
-["esgeuluso","rhyddhau"]
+esgeuluso
+rhyddhau

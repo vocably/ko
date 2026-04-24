@@ -1,1 +1,2 @@
-["ukucenga","ukukholisa"]
+ukucenga
+ukukholisa

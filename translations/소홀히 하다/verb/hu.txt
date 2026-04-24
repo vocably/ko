@@ -1,1 +1,2 @@
-["elhanyagol","nem törődik vele"]
+elhanyagol
+nem törődik vele

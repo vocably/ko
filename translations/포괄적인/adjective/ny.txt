@@ -1,1 +1,2 @@
-["kuphatikiza","kuphatikizapo"]
+kuphatikiza
+kuphatikizapo

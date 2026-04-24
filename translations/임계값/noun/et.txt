@@ -1,1 +1,2 @@
-["läviväärtus","kriitiline piir"]
+läviväärtus
+kriitiline piir

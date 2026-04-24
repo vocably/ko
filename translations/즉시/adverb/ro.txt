@@ -1,1 +1,2 @@
-["imediat","chiar atunci"]
+imediat
+chiar atunci

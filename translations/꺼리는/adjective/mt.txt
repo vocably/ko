@@ -1,1 +1,2 @@
-["riluttanti","eżitanti"]
+riluttanti
+eżitanti

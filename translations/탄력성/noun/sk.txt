@@ -1,1 +1,3 @@
-["elasticita","pružnosť","prispôsobivosť"]
+elasticita
+pružnosť
+prispôsobivosť

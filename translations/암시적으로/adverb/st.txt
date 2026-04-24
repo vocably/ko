@@ -1,1 +1,2 @@
-["ka mokhoa o sa tobang","ka ho supa"]
+ka mokhoa o sa tobang
+ka ho supa

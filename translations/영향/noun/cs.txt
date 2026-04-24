@@ -1,1 +1,2 @@
-["vliv","dopad"]
+vliv
+dopad

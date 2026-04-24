@@ -1,1 +1,2 @@
-["dostatočne","bohato"]
+dostatočne
+bohato

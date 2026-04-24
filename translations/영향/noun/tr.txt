@@ -1,1 +1,2 @@
-["etki","tesir"]
+etki
+tesir

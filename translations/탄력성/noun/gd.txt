@@ -1,1 +1,3 @@
-["sùbailteachd","elastaig","elastaigeachd"]
+sùbailteachd
+elastaig
+elastaigeachd

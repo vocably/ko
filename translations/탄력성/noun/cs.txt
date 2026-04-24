@@ -1,1 +1,3 @@
-["elasticita","pružnost","houževnatost"]
+elasticita
+pružnost
+houževnatost

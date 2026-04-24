@@ -1,1 +1,2 @@
-["yakazara","inosanganisira"]
+yakazara
+inosanganisira

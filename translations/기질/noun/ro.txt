@@ -1,1 +1,2 @@
-["temperament","fire"]
+temperament
+fire

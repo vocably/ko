@@ -1,1 +1,2 @@
-["leanúnach","seasta"]
+leanúnach
+seasta

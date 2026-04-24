@@ -1,1 +1,2 @@
-["taua","aoga"]
+taua
+aoga

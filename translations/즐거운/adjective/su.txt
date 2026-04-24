@@ -1,1 +1,2 @@
-["bungah","bagja"]
+bungah
+bagja

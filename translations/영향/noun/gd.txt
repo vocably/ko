@@ -1,1 +1,2 @@
-["buaidh","tionndadh"]
+buaidh
+tionndadh

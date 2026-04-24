@@ -1,1 +1,2 @@
-["seuil","valeur seuil"]
+seuil
+valeur seuil

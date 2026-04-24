@@ -1,1 +1,2 @@
-["prahová hodnota","prah"]
+prahová hodnota
+prah

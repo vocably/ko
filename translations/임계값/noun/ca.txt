@@ -1,1 +1,2 @@
-["llindar","valor llindar"]
+llindar
+valor llindar

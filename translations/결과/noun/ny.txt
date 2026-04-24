@@ -1,1 +1,2 @@
-["zotsatira","chipatso"]
+zotsatira
+chipatso

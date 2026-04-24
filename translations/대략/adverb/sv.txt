@@ -1,1 +1,2 @@
-["ungefär","cirka"]
+ungefär
+cirka

@@ -1,1 +1,2 @@
-["temperamentu","attitudine"]
+temperamentu
+attitudine

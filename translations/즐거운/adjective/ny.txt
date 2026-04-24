@@ -1,1 +1,2 @@
-["kukondwa","kusangalala"]
+kukondwa
+kusangalala

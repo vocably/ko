@@ -1,1 +1,2 @@
-["iloinen","onnellinen"]
+iloinen
+onnellinen

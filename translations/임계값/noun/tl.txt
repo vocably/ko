@@ -1,1 +1,2 @@
-["hangganan","limitasyon"]
+hangganan
+limitasyon

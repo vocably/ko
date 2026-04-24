@@ -1,1 +1,2 @@
-["aminci","adalci"]
+aminci
+adalci

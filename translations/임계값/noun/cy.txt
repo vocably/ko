@@ -1,1 +1,2 @@
-["trothwy","gwerth trothwy"]
+trothwy
+gwerth trothwy

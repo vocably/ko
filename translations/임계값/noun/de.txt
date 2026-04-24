@@ -1,1 +1,2 @@
-["Schwellenwert","Grenzwert"]
+Schwellenwert
+Grenzwert

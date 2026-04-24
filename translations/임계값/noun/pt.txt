@@ -1,1 +1,2 @@
-["limiar","valor crítico"]
+limiar
+valor crítico

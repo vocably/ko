@@ -1,1 +1,3 @@
-["ìfaradà","ìgbàpadà","ìyípadà"]
+ìfaradà
+ìgbàpadà
+ìyípadà

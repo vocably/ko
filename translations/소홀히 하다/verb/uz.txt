@@ -1,1 +1,2 @@
-["e'tiborsiz qoldirmoq","beparvo bo'lmoq"]
+e'tiborsiz qoldirmoq
+beparvo bo'lmoq

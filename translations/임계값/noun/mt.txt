@@ -1,1 +1,2 @@
-["limitu","punt kritiku"]
+limitu
+punt kritiku

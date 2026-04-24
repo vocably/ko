@@ -1,1 +1,2 @@
-["beskôgje","oerweagje"]
+beskôgje
+oerweagje

@@ -1,1 +1,2 @@
-["pataki","iyebiye"]
+pataki
+iyebiye

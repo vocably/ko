@@ -1,1 +1,2 @@
-["skaistumas","dorumas"]
+skaistumas
+dorumas
